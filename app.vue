@@ -20,6 +20,7 @@
         >
         <NuxtLink class="nav-item nav-link" href="/add">Add</NuxtLink>
         <NuxtLink class="nav-item nav-link" href="/all">All</NuxtLink>
+        <NuxtLink class="nav-item nav-link" href="/addImg">Add-Img</NuxtLink>
       </div>
     </div>
   </nav>
